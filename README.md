@@ -1,4 +1,7 @@
 # Weather-App
 
-![image](https://user-images.githubusercontent.com/78442505/172077922-520b2dc5-1187-411c-9f32-0cb76933fcd5.png)
+Weather App using HTML + CSS + JS + weather API
 
+![image](https://user-images.githubusercontent.com/78442505/172078903-1808a577-28db-4d86-b8f6-201526072719.png)
+
+Inspiration: Jonah Lawrence • Dev Pro Tips
