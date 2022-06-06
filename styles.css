@@ -100,6 +100,10 @@ body{
     font-size: 0.7em;
 }
 
+.loading{
+    display: none;
+}
+
 /* FOOTER */
 footer{
     font-family: Poppins, sans-serif;
